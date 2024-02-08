@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(30, 30, 30);
+}
+.card{
+    background-color: gray;
+    width: 15%;
+    align-items: center;
+    display: inline-block;
+}
+.cds{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    color: rgb(190, 195, 201);
+}
+p{
+    color: white;
+}
+.main{
+    margin-bottom: 40px;
+}
