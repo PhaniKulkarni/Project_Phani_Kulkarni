@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.card{
+    width: 25%;
+    height: 50%;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+iframe{
+    width: 100%;
+    height: auto;
+}
+p{
+    padding-left: 15px;
+    font-weight: bold;
+    
+}
+.s2{
+    
+    color: black;
+}
+.like-dialog{
+    margin-left: 80px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    position: absolute;
+    display: none;
+}
+.ic{
+    margin-bottom: 8px;
+    padding-left: 50px;
+}
+img{
+    color: black;
+    margin: 0;
+    width: 100%;
+    height: auto;
+}
+.ibtn {
+    border: none;
+    background: none;
+    width: 30px; 
+     
+}
